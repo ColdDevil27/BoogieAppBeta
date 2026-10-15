@@ -1,0 +1,144 @@
+[
+  {
+    "id": "st-johns-wort",
+    "name": "St. John's wort",
+    "aliases": ["st johns wort", "hypericum", "sjw"],
+    "kind": "supplement",
+    "blurb": "Herbal supplement, often sold for mood or sleep",
+    "severity": "avoid",
+    "headline": "Don't combine unless your prescriber says it's OK",
+    "summary": "Both raise serotonin. Together they can push levels too high and cause serotonin syndrome, which can be serious. Check teas and \"mood support\" blends too.",
+    "signsLabel": "Warning signs",
+    "signs": ["Agitation", "Fast heartbeat", "Heavy sweating", "Tremor or shivering", "Diarrhea", "Fever"],
+    "steps": [
+      { "title": "Hold off for now", "body": "Don't start it until you've talked with your prescriber or pharmacist." },
+      { "title": "Keep taking Lexapro as directed", "body": "Stopping suddenly can cause its own problems. Ask before changing anything." },
+      { "title": "Get help fast if it's severe", "body": "High fever, stiff muscles, seizures or confusion need emergency care." }
+    ],
+    "groups": ["serotonergic"],
+    "status": "draft",
+    "sources": [{ "title": "Escitalopram (Lexapro) prescribing information, FDA" }]
+  },
+  {
+    "id": "tramadol",
+    "name": "Tramadol",
+    "aliases": ["ultram", "ultracet"],
+    "kind": "medication",
+    "blurb": "Prescription pain medicine, also sold as Ultram",
+    "severity": "avoid",
+    "headline": "High risk. Needs your prescriber's go-ahead",
+    "summary": "Tramadol also acts on serotonin. With Lexapro it can cause serotonin syndrome, and it can raise the risk of seizures.",
+    "signsLabel": "Warning signs",
+    "signs": ["Agitation", "Fast heartbeat", "Muscle twitching", "Heavy sweating", "Confusion", "Seizure"],
+    "steps": [
+      { "title": "Tell every prescriber", "body": "Dentists, urgent care and the ER too. Say you take Lexapro before any new prescription." },
+      { "title": "Ask about other options", "body": "There are pain treatments that don't act on serotonin. Your prescriber can pick one." },
+      { "title": "Get help fast if it's severe", "body": "Seizures, high fever, stiff muscles or confusion need emergency care." }
+    ],
+    "groups": ["serotonergic"],
+    "status": "draft",
+    "sources": [{ "title": "Escitalopram (Lexapro) prescribing information, FDA" }]
+  },
+  {
+    "id": "ibuprofen",
+    "name": "Ibuprofen",
+    "aliases": ["advil", "motrin", "nsaid"],
+    "kind": "medication",
+    "blurb": "Pain reliever (NSAID), such as Advil or Motrin",
+    "severity": "caution",
+    "headline": "Okay for some people, but it raises bleeding risk",
+    "summary": "SSRIs like Lexapro and NSAIDs each make bleeding easier, mostly in the stomach. Together the risk goes up, more so with daily use. Naproxen and aspirin work the same way.",
+    "signsLabel": "Warning signs",
+    "signs": ["Black, tarry stools", "Vomiting blood", "Easy bruising", "Stomach pain", "Frequent nosebleeds", "Unusually heavy bleeding"],
+    "steps": [
+      { "title": "Ask before regular use", "body": "An occasional dose carries less risk than daily use. Your pharmacist can advise." },
+      { "title": "Ask about alternatives", "body": "Acetaminophen (Tylenol) doesn't carry the same bleeding risk. Confirm it suits you." },
+      { "title": "Act on warning signs", "body": "Call your doctor about any sign above. Vomiting blood or black stools need urgent care." }
+    ],
+    "groups": ["bleeding"],
+    "status": "draft",
+    "sources": [{ "title": "Escitalopram (Lexapro) prescribing information, FDA" }]
+  },
+  {
+    "id": "aspirin",
+    "name": "Aspirin",
+    "aliases": ["asa", "bayer", "acetylsalicylic acid", "baby aspirin"],
+    "kind": "medication",
+    "blurb": "Pain reliever and blood thinner, including low-dose",
+    "severity": "caution",
+    "headline": "Raises bleeding risk, so ask before adding it",
+    "summary": "Aspirin slows clotting, and so does Lexapro. Together bleeding becomes more likely, mostly in the stomach. If a doctor prescribed aspirin, don't stop it on your own.",
+    "signsLabel": "Warning signs",
+    "signs": ["Black, tarry stools", "Vomiting blood", "Easy bruising", "Stomach pain", "Frequent nosebleeds", "Unusually heavy bleeding"],
+    "steps": [
+      { "title": "Keep prescribed aspirin as directed", "body": "Low-dose aspirin is often taken for the heart. Ask before changing it." },
+      { "title": "Ask before using it for pain", "body": "Pain-relief doses are higher. Your pharmacist can suggest a safer option." },
+      { "title": "Act on warning signs", "body": "Call your doctor about any sign above. Vomiting blood or black stools need urgent care." }
+    ],
+    "groups": ["bleeding"],
+    "status": "draft",
+    "sources": [{ "title": "Escitalopram (Lexapro) prescribing information, FDA" }]
+  },
+  {
+    "id": "alcohol",
+    "name": "Alcohol",
+    "aliases": ["beer", "wine", "liquor", "vodka", "whiskey", "cocktail", "drinking"],
+    "kind": "drink",
+    "blurb": "Beer, wine, spirits and mixed drinks",
+    "severity": "caution",
+    "headline": "Best avoided, and riskier in larger amounts",
+    "summary": "Lexapro's labeling advises against alcohol. It can worsen low mood and anxiety, and add to drowsiness and poor judgment.",
+    "signsLabel": "What you might notice",
+    "signs": ["Heavy drowsiness", "Dizziness", "Low mood next day", "More anxiety", "Poor sleep", "Impaired judgment"],
+    "steps": [
+      { "title": "Ask what's right for you", "body": "Your prescriber knows your history and can tell you if any amount is okay." },
+      { "title": "Be extra careful at the start", "body": "In the first weeks and after any dose change, skip it until you know how you feel." },
+      { "title": "Reach out if your mood drops", "body": "Tell your prescriber. If you ever feel unsafe, call or text 988 any time." }
+    ],
+    "groups": [],
+    "status": "draft",
+    "sources": [{ "title": "Escitalopram (Lexapro) prescribing information, FDA" }],
+    "note": "Sources differ. The label advises against alcohol; some consumer guides say there is no direct interaction but the side effects overlap."
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "aliases": ["grapefruit juice"],
+    "kind": "food",
+    "blurb": "Whole fruit and juice",
+    "severity": "caution",
+    "headline": "Possible effect on Lexapro levels, not proven",
+    "summary": "Grapefruit can slow how the body breaks down some medicines. For Lexapro the evidence isn't settled, so some sources suggest skipping it to be safe.",
+    "signsLabel": "Signs levels may be high",
+    "signs": ["Nausea", "Dizziness", "Drowsiness", "Headache", "Racing or irregular heartbeat", "Fainting"],
+    "steps": [
+      { "title": "Ask your pharmacist", "body": "A quick question, and they can check your other medicines at the same time." },
+      { "title": "If you have it, keep it steady", "body": "Big swings in how much you have can change how a medicine acts." },
+      { "title": "Report new symptoms", "body": "Call your doctor if something feels off. Fainting or an irregular heartbeat needs urgent care." }
+    ],
+    "groups": [],
+    "status": "draft",
+    "sources": [{ "title": "Healthline: Lexapro interactions", "url": "https://www.healthline.com/health/drugs/lexapro-interactions" }],
+    "note": "Sources differ on grapefruit and the Lexapro label doesn't list it."
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "aliases": ["caffeine", "espresso", "latte", "cappuccino"],
+    "kind": "drink",
+    "blurb": "Caffeinated drink",
+    "severity": "low",
+    "headline": "No known dangerous interaction",
+    "summary": "Moderate coffee is generally fine with Lexapro. Caffeine can add to jitters or trouble sleeping, especially in your first weeks on it.",
+    "signsLabel": "You might notice",
+    "signs": ["Jitteriness", "Racing heart", "Trouble falling asleep", "Feeling more anxious"],
+    "steps": [
+      { "title": "Keep it to the morning", "body": "Protects sleep, which Lexapro can already disturb early on." },
+      { "title": "Read energy drink labels", "body": "Some add herbs or supplements. Run those through MySSRI too." },
+      { "title": "Mention lasting symptoms", "body": "If anxiety or sleep trouble continues, tell your prescriber." }
+    ],
+    "groups": [],
+    "status": "draft",
+    "sources": []
+  }
+]

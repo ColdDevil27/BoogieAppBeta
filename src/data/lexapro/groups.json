@@ -1,0 +1,26 @@
+[
+  {
+    "id": "serotonergic",
+    "title": "Serotonin syndrome",
+    "whatItIs": "Too much serotonin in the body. It most often starts within hours of adding a medicine or raising a dose, and it ranges from mild to life-threatening.",
+    "earlySigns": ["Restlessness", "Heavy sweating", "Tremor", "Diarrhea", "Fast heartbeat", "Muscle twitching"],
+    "emergency": {
+      "title": "Get emergency help right away",
+      "body": "High fever, stiff muscles, a seizure or confusion after taking something new."
+    },
+    "items": [
+      { "name": "MAOI antidepressants", "examples": "Phenelzine (Nardil), tranylcypromine (Parnate), selegiline. Needs a washout of about two weeks.", "severity": "avoid" },
+      { "name": "Linezolid and methylene blue", "examples": "An antibiotic (Zyvox) and a dye used in hospitals.", "severity": "avoid" },
+      { "name": "St. John's wort", "examples": "Herbal supplement for mood or sleep.", "severity": "avoid", "entryId": "st-johns-wort" },
+      { "name": "Tramadol", "examples": "Prescription pain medicine (Ultram).", "severity": "avoid", "entryId": "tramadol" },
+      { "name": "5-HTP and tryptophan", "examples": "Supplements sold for mood and sleep.", "severity": "avoid" },
+      { "name": "MDMA", "examples": "Ecstasy or molly.", "severity": "avoid" },
+      { "name": "Triptans", "examples": "Migraine medicines like sumatriptan (Imitrex).", "severity": "caution" },
+      { "name": "Cough medicine with DXM", "examples": "Look for \"DM\" or dextromethorphan on the label, as in Robitussin DM or Delsym.", "severity": "caution" },
+      { "name": "Other antidepressants and lithium", "examples": "Duloxetine (Cymbalta), venlafaxine (Effexor), trazodone, lithium.", "severity": "caution" },
+      { "name": "Some other opioids", "examples": "Fentanyl, meperidine (Demerol), methadone.", "severity": "caution" },
+      { "name": "Ondansetron", "examples": "Nausea medicine (Zofran).", "severity": "caution" },
+      { "name": "Stimulants", "examples": "Amphetamines and cocaine.", "severity": "caution" }
+    ]
+  }
+]
