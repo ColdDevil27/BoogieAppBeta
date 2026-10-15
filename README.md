@@ -60,5 +60,5 @@ Lookup is in `src/lib/search.ts`; it is covered by `src/lib/search.test.ts`.
       against group rules. This is how the list scales without writing a screen per product.
 - [ ] Brand/generic alias import from a public drug-name source.
 - [ ] More medications (sertraline, fluoxetine, ...) as sibling folders under `src/data/`.
-- [ ] Real PNG app icons (192 and 512) for reliable "Add to Home Screen".
+- [x] Real PNG app icons (192 and 512) for reliable "Add to Home Screen".
 - [ ] "My list": saved searches and a printable question sheet for a pharmacist.
